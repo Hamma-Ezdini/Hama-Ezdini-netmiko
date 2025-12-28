@@ -33,11 +33,3 @@ if __name__ == "__main__":
     main()
 
 
-
-print("Hello, Git!")
-
-def dire_salut():
-    print("Salut, Git!")
-
-dire_salut()
-
